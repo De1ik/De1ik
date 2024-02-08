@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @De1ik
+- 👋 Hi, I’m @De1ik and i study in the STU FIIT 
 - 👀 I’m interested in Computer Science, espesially in Webdeveloping, Data Analysis, Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 📫 My email: olegovich.1903@gmail.com
