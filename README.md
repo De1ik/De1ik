@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @De1ik and I'm a student of the STU FIIT university
-- 👀 I’m interested in Computer Science, Webdeveloping, Data Analysis, Machine Learning
+- 👨🏼‍💻 I'm interning at Dell Technology
+- 👀 I’m interested in AI, Webdeveloping, Data Analysis, Machine Learning
 - 📫 My email: olegovich.1903@gmail.com
 
 <!---
