@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Artem and I'm a student of the STU FIIT university<br>👨🏼‍💻 I'm interning at Dell Technology<br>👀 I’m interested in WebDev, Web3, Data Science<br>👀 I’m interested in WebDev, Web3, Data Science<br>💻 Main programming language: <b>Python</b>
+👋 Hi, I’m Artem and I'm a student of the STU FIIT university<br>👨🏼‍💻 I'm interning at Dell Technology<br>👀 I’m interested in WebDev, Web3, Data Science<br>💻 Main programming language: <b>Python</b>
 
 
 ## 🌐 Socials:
