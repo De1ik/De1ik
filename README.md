@@ -12,12 +12,20 @@
 [![](https://visitcount.itsvg.in/api?id=De1ik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
+<!---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/De1ik/De1ik/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/De1ik/De1ik/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/De1ik/De1ik/output/github-snake.svg" />
 </picture>
+--->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/De1ik/De1ik/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/De1ik/De1ik/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/De1ik/De1ik/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <!---
 De1ik/De1ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
